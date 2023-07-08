@@ -1,0 +1,12 @@
+body{
+    background-color: whitesmoke;
+    padding: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+    border: 10px solid rgb(95, 95, 79);
+    border-radius: 10px;
+}

@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(90deg, rgb(93, 206, 226) 10%, rgb(238, 104, 178) 25%, rgb(255, 255, 255) 50%, rgb(238, 104, 178) 75%, rgb(93, 206, 226) 90%); 
+    color:black;
+
+}
+.preamble{
+    background-color: white;
+}
+.main.supporting h3 + .preamble{
+    background-color: red;
+    background-color: lightgreen;
+    padding: 1em
+
+}
+p:hover{
+    box-shadow: 0px 0px 5px orange;
+    padding: .5em;
+    margin: .5em;
+}
